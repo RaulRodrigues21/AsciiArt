@@ -1,4 +1,4 @@
-﻿Console.ReadKey();
+﻿Console.Clear();
 
 Console.WriteLine (" ||  ||");
 Console.WriteLine (" \\\\()//");
