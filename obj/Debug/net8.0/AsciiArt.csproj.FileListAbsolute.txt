@@ -1,0 +1,14 @@
+c:\Users\user\AsciiArt\bin\Debug\net8.0\AsciiArt.exe
+C:\Users\user\AsciiArt\bin\Debug\net8.0\AsciiArt.deps.json
+C:\Users\user\AsciiArt\bin\Debug\net8.0\AsciiArt.runtimeconfig.json
+c:\Users\user\AsciiArt\bin\Debug\net8.0\AsciiArt.dll
+c:\Users\user\AsciiArt\bin\Debug\net8.0\AsciiArt.pdb
+c:\Users\user\AsciiArt\obj\Debug\net8.0\AsciiArt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\AsciiArt\obj\Debug\net8.0\AsciiArt.AssemblyInfoInputs.cache
+c:\Users\user\AsciiArt\obj\Debug\net8.0\AsciiArt.AssemblyInfo.cs
+c:\Users\user\AsciiArt\obj\Debug\net8.0\AsciiArt.csproj.CoreCompileInputs.cache
+c:\Users\user\AsciiArt\obj\Debug\net8.0\AsciiArt.dll
+c:\Users\user\AsciiArt\obj\Debug\net8.0\refint\AsciiArt.dll
+c:\Users\user\AsciiArt\obj\Debug\net8.0\AsciiArt.pdb
+C:\Users\user\AsciiArt\obj\Debug\net8.0\AsciiArt.genruntimeconfig.cache
+C:\Users\user\AsciiArt\obj\Debug\net8.0\ref\AsciiArt.dll
